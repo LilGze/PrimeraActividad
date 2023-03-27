@@ -1,10 +1,50 @@
-h1,h2,h3,h4 { 
-  font-size: 20px ;
+h2 { 
+    font-size: 25px ;
+    background-color: cyan;
+    margin: 0%;
+    padding: 1% 1% 1% 1%;
+    text-align: justify;
+    color: white;
+
 }
+#two { 
+    font-size: 25px ;
+    background-color: yellow;
+    margin: 0%;
+    margin: 0%;
+    padding: 1% 1% 1% 1%;
+    text-align: justify;
+    color: white;
+}    
+    
+b{
+    font-size: 35px;
+}
+
+
+#trhee { 
+    font-size: 25px ;
+    background-color: orange;
+    margin: 0%;
+    margin: 0%;
+    padding: 1% 1% 1% 1%;
+    text-align: justify;
+    color: white;
+}
+
+#four { 
+    font-size: 25px ;
+    background-color: red;
+    margin: 0%;
+    margin: 0%;
+    padding: 1% 1% 1% 1%;
+    text-align: justify;
+    color: white;
+}
+
 p {
-  font-size: 15px;  
-}
-#fondo {
+    font-size: 20%;
     background-color: gray;
-    height: 100%;
+    margin: 0%;
+    color: white;
 }
